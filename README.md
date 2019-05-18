@@ -51,6 +51,7 @@ python test.py
 - https://docs.scipy.org/doc/numpy-1.13.0/user/c-info.how-to-extend.html
 - https://scipy-cookbook.readthedocs.io/items/C_Extensions_NumPy_arrays.html
 - For numpy header files in distutils: https://stackoverflow.com/questions/2379898/make-distutils-look-for-numpy-header-files-in-the-correct-place
+- https://scipy-lectures.org/advanced/interfacing_with_c/interfacing_with_c.html
 
 
 ## Building for CUDA support
